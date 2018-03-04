@@ -30,4 +30,4 @@ class CloudAMQPClient:
     def sleep(self, seconds):
         self.connection.sleep(seconds)
 
-    
+     
